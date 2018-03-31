@@ -22,6 +22,7 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 + [HMMSplicer](http://derisilab.ucsf.edu/index.php?software=105) - discovery canonical and non-canonical splice junctions in short read datasets.
 + [MapSplice](http://www.netlab.uky.edu/p/bioinfo/MapSplice2) - map RNA-seq data to reference genome for splice junction discovery.
 + [MISO](http://genes.mit.edu/burgelab/miso/) - determine alternative splicing expression. 
++ [MMES](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2798953/) - statistically determine alternative splicing.
 + [outrigger](https://github.com/YeoLab/outrigger) - calculate alternative splicing scores of RNA-Seq data based on junction reads and a de novo, custom annotation created with a graph database, especially made for single-cell analyses.
 + [rMATS](http://rnaseq-mats.sourceforge.net/) - RNA-Seq Multavariate Analysis of Transcript Splicing. [Reading rMATS output](https://www.biostars.org/p/256949/)
 + [rmats2sashimiplot](https://github.com/Xinglab/rmats2sashimiplot/) - visualize rMATS output using sashimi plots.
