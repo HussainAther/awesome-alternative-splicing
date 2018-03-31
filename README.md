@@ -1,6 +1,6 @@
 # awesome-alternative-splicing
 ## What is this?
-This is a list of software packages (and the people developing these methods) for alternative splicing. [Contributions welcome](https://github.com/hussainather/awesome-alternative-splicing/blob/master/CONTRIBUTING.md)...
+This is a resource for software and information about alternative splicing. [Contributions welcome](https://github.com/hussainather/awesome-alternative-splicing/blob/master/CONTRIBUTING.md)...
 
 ## Types of alternative splicing
  - Skipped exon or cassette exon (SE): An exon can be retained or spliced out of
