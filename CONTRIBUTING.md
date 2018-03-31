@@ -1,6 +1,6 @@
 Contribution and suggestions are welcome! Simply 
 
-1. [fork this repository](https://github.com/hussainather/awesome-alternative-splicing/edit/master/CONTRIBUTING.md#fork-destination-box)
+1. fork this repository
 2. make a change to README.md
 3. submit a pull request.
 
