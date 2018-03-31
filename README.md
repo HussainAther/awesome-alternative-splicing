@@ -41,17 +41,17 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 
 ## Databases
 
-+ [ASIP] - Alternative Splicing in Plants. 
-+ [FAST DB] - The friendly Alternative Splicing and Transcripts Database (FAST DB).
++ [ASIP](http://www.plantgdb.org/ASIP/) - Alternative Splicing in Plants. 
 + [ASG] - Alternative Splicing Gallery for human genes. 
-+ ASTD A database of alternative splice events and transcripts of genes from human, mouse and rat. 
-+ Hollywood exon annotation database A website for querying a relational database of constitutive and alternative human exons, by using biological and descriptive features. 
-+ H-DBAS Human-transcriptome DataBase for Alternative Splicing. 
-+ Pro-Splicer An Alternative Splicing Database based on Protein, mRNA, and EST Sequences. 
-+ ECgene Genome Annotation for Alternative Splicing. 
-+ SpliceNest Visualizing Splicing of Genes from EST Data for human, mouse, Drodophila and Arabidopsis. 
-+ HS3D HS3D is a data set of Homo Sapiens Exon, Intron and Splice regions extracted from GenBank Rel.123. 
-+ MAASE MAASE is an online resource for convenient access, identification, and annotation of alternative splicing events (ASEs), designed specifically with experimentalists in mind.
++ [ASPicDB](http://srv00.recas.ba.infn.it/ASPicDB/) - Alternative Splicing PredICtion DataBase.
++ [ENSEMBL](http://useast.ensembl.org/info/genome/genebuild/genome_annotation.html) - Human and mouse genome annotations.
++ [FAST DB/Easana](https://www.easana.com/) - Friendly Alternative Splicing and Transcripts Database.
++ [Hollywood exon annotation database](http://hollywood.mit.edu/) - A website for querying a relational database of constitutive and alternative human exons, by using biological and descriptive features. 
++ [HS3D](http://www.sci.unisannio.it/docenti/rampone/) - Data set of Homo Sapiens Exon, Intron and Splice regions extracted from GenBank Rel.123. 
++ [H-DBAS](http://www.h-invitational.jp/h-dbas/) - Human-transcriptome DataBase for Alternative Splicing.
++ [MAASE](http://maase.genomics.purdue.edu/) - Convenient access, identification, and annotation of alternative splicing events (ASEs), designed specifically with experimentalists in mind.
++ [Pro-Splicer](http://prosplicer.mbc.nctu.edu.tw/) - Alternative splicing database based on protein, mRNA, and EST Sequences.
++ [SpliceNest](http://splicenest.molgen.mpg.de/) - Visualizing splicing of genes from EST Data for human, mouse, Drodophila and Arabidopsis. 
 
 ## Review of RNA-Seq splicing tools
 **Tool**|**Performs split-read alignment**|**Transcript reconstruction (assembly)**|**Expression Analysis (any)**|**Gene expression analysis**|**Transcript specific expression analysis**|**Exon junction expression**|**Quantitative alternative expression analysis**|**Expression level sensitivity**|**Output**|**Minimum read length required or recommended**|**Visualization tool**|**Performs comparisons between conditions (ex. tumor vs normal)**|**Relevant comparison to Alexa-seq**|**Data type supported**|**Citation**
