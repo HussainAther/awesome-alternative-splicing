@@ -26,6 +26,7 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 + [outrigger](https://github.com/YeoLab/outrigger) - calculate alternative splicing scores of RNA-Seq data based on junction reads and a de novo, custom annotation created with a graph database, especially made for single-cell analyses.
 + [rMATS](http://rnaseq-mats.sourceforge.net/) - RNA-Seq Multavariate Analysis of Transcript Splicing. [Reading rMATS output](https://www.biostars.org/p/256949/)
 + [rmats2sashimiplot](https://github.com/Xinglab/rmats2sashimiplot/) - visualize rMATS output using sashimi plots.
++ [SAW](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2919401/) - identify splicing events from RNA-Seq data.
 + [Scripture](http://software.broadinstitute.org/software/scripture/) - reconstruct transcript isoforms.
 + [SingleSplice](https://github.com/jw156605/SingleSplice) - detect biological variation in alternative splicing within a population of single cells. 
 + [SpliceMap](https://web.stanford.edu/group/wonglab/SpliceMap/) - discover and align splice junctions for RNA-Seq reads.
