@@ -15,6 +15,7 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 
 ## Software
 + [ALEXA-Seq](http://www.alexaplatform.org/alexa_seq/) - alternative expression analysis by massively parallel sequencing.
++ [AltAnalyze](http://www.altanalyze.org/) - analyze alternative splicing from single-cell and RNA-Seq data.
 + [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - assemble and quantify transcripts. 
 + [DEXSeq](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html) - identify differential exon usage.
 + [flotilla](https://github.com/yeolab/flotilla) - reproduce machine learning analysis of gene expression and alternative splicing data.
