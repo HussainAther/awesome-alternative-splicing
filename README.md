@@ -42,7 +42,7 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 ## Databases
 
 + [ASIP](http://www.plantgdb.org/ASIP/) - Alternative Splicing in Plants. 
-+ [ASG] - Alternative Splicing Gallery for human genes. 
++ [ASG](https://brcwebportal.cos.ncsu.edu/asg/) - Alternative Splicing Gallery for human genes. 
 + [ASPicDB](http://srv00.recas.ba.infn.it/ASPicDB/) - Alternative Splicing PredICtion DataBase.
 + [ENSEMBL](http://useast.ensembl.org/info/genome/genebuild/genome_annotation.html) - Human and mouse genome annotations.
 + [FAST DB/Easana](https://www.easana.com/) - Friendly Alternative Splicing and Transcripts Database.
