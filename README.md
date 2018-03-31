@@ -16,10 +16,12 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 ## Software
 + [ALEXA-Seq](http://www.alexaplatform.org/alexa_seq/) - alternative expression analysis by massively parallel sequencing.
 + [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - assemble and quantify transcripts. 
++ [DEXSeq](https://bioconductor.org/packages/release/bioc/html/DEXSeq.html) - identify differential exon usage.
 + [flotilla](https://github.com/yeolab/flotilla) - reproduce machine learning analysis of gene expression and alternative splicing data.
 + [GMAP and GSNAP](http://research-pub.gene.com/gmap/) - detect complex variants and splicing in short reads, SNP-tolerant.
 + [G-Mo.R-Se](http://www.genoscope.cns.fr/externe/gmorse/) - maps splice junctions to genome. 
 + [HMMSplicer](http://derisilab.ucsf.edu/index.php?software=105) - discovery canonical and non-canonical splice junctions in short read datasets.
++ [JunctionSeq](https://bioconductor.org/packages/release/bioc/html/JunctionSeq.html) - identify differential splice junctions.
 + [MapSplice](http://www.netlab.uky.edu/p/bioinfo/MapSplice2) - map RNA-seq data to reference genome for splice junction discovery.
 + [MISO](http://genes.mit.edu/burgelab/miso/) - determine alternative splicing expression. 
 + [MMES](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2798953/) - statistically determine alternative splicing.
