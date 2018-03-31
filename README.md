@@ -34,6 +34,7 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 + [SplicingCompass](https://www.leibniz-hki.de/en/SplicingCompass.html) - detect differential splicing using RNA-Seq data.
 + [SplitSeek](https://solidsoftwaretools.com/splitseek) - predict splice events from RNA-Seq data.
 + [STAR](https://code.google.com/archive/p/rna-star/) - identify alternative splicing.
++ [SUPPA](https://github.com/comprna/SUPPA) - identify alternative splicing.
 + [TopHat](http://ccb.jhu.edu/software/tophat/index.shtml) - map splice junctions for RNA-Seq reads.
 
 
