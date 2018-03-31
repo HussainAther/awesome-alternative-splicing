@@ -47,15 +47,4 @@ MMES|Y|N|N|N|N|Y|N|Junction|Identified splice junctions and p-values|25bp|N|N|N|
 G-Mo.R-Se|Y|Y|N|N|N|N|N|Transcript*|Transcript structure information.  GFF|25bp|Grape Genome Browser|N|N|Illumina|"Denoeud et al.
 SplitSeek|Y|N|N|N|N|Y|N|Junction|Alignments.  BED|50bp|UCSC browser|N|N|SOLiD only|"Ameur et al.2010
 GSNAP|Y|Y|N|N|N|N|N|N/A|Alignments.  SAM and FASTA|Minimum 14bp (tested on 36bp reads)|UCSC browser|N|N|Illumina | sodium bisulfite-treated DNA sequencing (for analysis of methylation status)|"Wu and Nacu
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
- | | | | | | | | | | | | | | | 
+
