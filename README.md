@@ -17,7 +17,7 @@ Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 + [ALEXA-Seq](http://www.alexaplatform.org/alexa_seq/) - alternative expression analysis by massively parallel sequencing.
 + [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - assemble and quantify transcripts. 
 + [flotilla](https://github.com/yeolab/flotilla) - reproduce machine learning analysis of gene expression and alternative splicing data.
-+ [GMAP](http://research-pub.gene.com/gmap/) - detect complex variants and splicing in short reads, SNP-tolerant.
++ [GMAP and GSNAP](http://research-pub.gene.com/gmap/) - detect complex variants and splicing in short reads, SNP-tolerant.
 + [G-Mo.R-Se](http://www.genoscope.cns.fr/externe/gmorse/) - maps splice junctions to genome. 
 + [HMMSplicer](http://derisilab.ucsf.edu/index.php?software=105) - discovery canonical and non-canonical splice junctions in short read datasets.
 + [MapSplice](http://www.netlab.uky.edu/p/bioinfo/MapSplice2) - map RNA-seq data to reference genome for splice junction discovery.
