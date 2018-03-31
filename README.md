@@ -13,7 +13,7 @@ This is a resource for software and information about alternative splicing. [Con
 
 Source: http://rnaseq-mats.sourceforge.net/rmats3.0.9/
 
-## Software packages
+## Software
 + [ALEXA-Seq](http://www.alexaplatform.org/alexa_seq/) - alternative expression analysis by massively parallel sequencing.
 + [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - assemble and quantify transcripts. 
 + [flotilla](https://github.com/yeolab/flotilla) - reproduce machine learning analysis of gene expression and alternative splicing data.
